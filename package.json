@@ -14,5 +14,8 @@
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
     "pump": "^1.0.2"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
   }
 }
