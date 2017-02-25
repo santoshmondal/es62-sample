@@ -3,7 +3,7 @@
  */
 export let firstName = "ES6";
 export let middleName = "NodeJs";
-export  let lastName = "Babel";
+export let lastName = "Babel";
 
 
 export const PI = Math.PI;
